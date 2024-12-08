@@ -1,0 +1,35 @@
+{
+  "name": "cafeteria---web",
+  "version": "1.0.0",
+  "description": "Creating an Cafe Website using sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mmikll/Cafe-WEB.git"
+  },
+  "author": "Miguel Miranda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mmikll/Cafe-WEB/issues"
+  },
+  "homepage": "https://github.com/Mmikll/Cafe-WEB#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "gulp": "^5.0.0",
+    "gulp-avif": "^1.1.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-postcss": "^10.0.0",
+    "gulp-sass": "^6.0.0",
+    "gulp-sharp-responsive": "^0.4.1",
+    "gulp-webp": "^4.0.1",
+    "imagemin-pngquant": "^10.0.0",
+    "sass": "^1.81.0"
+  },
+  "browserslist": [
+    "last 1 version",
+    " > 1% "
+  ]
+}

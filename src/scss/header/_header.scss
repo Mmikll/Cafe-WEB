@@ -1,0 +1,18 @@
+@use '../base/variables' as v;
+
+.header{
+    padding: 5rem 0;
+
+    &::before{
+        content: '';
+        background-color: v.$negro;
+    }
+    
+    // .contenido-header{
+
+    // }
+}
+
+.header-inicio{
+    background-image: url('../img/header_inicio.jpg');
+}
