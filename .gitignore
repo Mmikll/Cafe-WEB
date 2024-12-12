@@ -3,7 +3,6 @@ node_modules/
 
 # Archivos de compilación
 dist/
-build/
 
 # Variables de entorno
 .env
