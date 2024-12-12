@@ -1,0 +1,30 @@
+# Dependencias
+node_modules/
+
+# Archivos de compilación
+dist/
+build/
+
+# Variables de entorno
+.env
+
+# Caché
+.cache/
+
+# Logs
+logs/
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+
+# Configuración del editor
+.vscode/
+.idea/
+*.iml
+
+# Otros
+*.pid
+*.tmp

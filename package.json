@@ -18,14 +18,14 @@
   "homepage": "https://github.com/Mmikll/Cafe-WEB#readme",
   "devDependencies": {
     "autoprefixer": "^10.4.20",
-    "gulp": "^5.0.0",
+    "cssnano": "^7.0.6",
+    "gulp": "^4.0.2",
     "gulp-avif": "^1.1.1",
     "gulp-imagemin": "^7.1.0",
     "gulp-postcss": "^10.0.0",
     "gulp-sass": "^6.0.0",
-    "gulp-sharp-responsive": "^0.4.1",
+    "gulp-sourcemaps": "^3.0.0",
     "gulp-webp": "^4.0.1",
-    "imagemin-pngquant": "^10.0.0",
     "sass": "^1.81.0"
   },
   "browserslist": [
